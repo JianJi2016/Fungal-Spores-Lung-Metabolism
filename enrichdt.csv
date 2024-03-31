@@ -1,0 +1,11 @@
+pathNames,count,Pvalue,Impact,Hit.Ratio,Total
+Galactose metabolism,10,0.00000001 ,0.590 ,0.37 ,27
+Pentose and glucuronate interconversions,4,0.003 ,0.375 ,0.22 ,18
+Ascorbate and aldarate metabolism,3,0.005 ,0.250 ,0.30 ,10
+Aminoacyl-tRNA biosynthesis,6,0.007 ,0.000 ,0.13 ,48
+Biosynthesis of unsaturated fatty acids,5,0.009 ,0.000 ,0.14 ,36
+Fructose and mannose metabolism,3,0.025 ,0.209 ,0.17 ,18
+beta-Alanine metabolism,3,0.038 ,0.399 ,0.14 ,21
+Glutathione metabolism,3,0.079 ,0.103 ,0.11 ,28
+"Alanine, aspartate and glutamate metabolism",3,0.079 ,0.226 ,0.11 ,28
+Purine metabolism,5,0.089 ,0.115 ,0.08 ,66

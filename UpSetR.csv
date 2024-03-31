@@ -1,0 +1,169 @@
+nameCONF,OntologyCONF,nameCONAF,OntologyCONAF,nameFAb,OntologyFAb
+FA 14:0;O,FA,NAE 13:0,NAE,FA 14:0;O,FA
+FA 14:1;O2,FA,NAE 16:1,NAE,FA 14:1;O2,FA
+NAE 13:0,NAE,SPB 18:0;O2,DHSph,FA 16:1;O2,FA
+FA 17:1,FA,FA 20:4;O,FA,NAE 16:1,NAE
+NAE 14:0,NAE,NAE 18:4,NAE,NAGly 17:3,NAGly
+FA 18:4,FA,FA 20:3;O,FA,FA 22:3;O,FA
+FA 18:3,FA,NAGly 17:3,NAGly,NAE 22:4,NAE
+SPB 18:0;O2,DHSph,NAE 18:3,NAE,CAR 15:0,CAR
+NAGly 17:3,NAGly,FA 20:2;O,FA,CAR 18:3,CAR
+NAE 18:3,NAE,SPB 20:1;O2,Sph,LPC 14:0/0:0,LPC
+NAE 18:2,NAE,NAE 19:0,NAE,LPC 15:0/0:0,LPC
+NAE 18:0,NAE,CAR 14:0,CAR,LPC 16:0/0:0,LPC
+NAE 20:5,NAE,CAR 15:0,CAR,LPC 18:0,LPC
+NAE 20:1,NAE,NATau 18:0,NATau,Cer 40:0;O2|Cer 18:0;O2/22:0,Cer
+CAR 14:0,CAR,CAR 16:0,CAR,CE 16:1,CE
+NAE 22:5,NAE,CAR 18:3,CAR,CE 18:3,CE
+NAE 22:4,NAE,CAR 18:2,CAR,CE 18:1,CE
+CAR 15:0,CAR,LPE O-16:2,LPE,DG 38:2,DG
+NATau 18:0,NATau,CAR 19:0,CAR,CE 20:5,CE
+CAR 16:0,CAR,CAR 20:3,CAR,CE 20:3,CE
+CAR 18:2,CAR,LPC O-14:0,LPC,Cer 45:1;O2|Cer 20:1;O2/25:0,Cer
+CAR 18:1,CAR,LPC 14:0/0:0,LPC,SE 29:1/18:2,SISE
+CAR 19:0,CAR,CAR 22:6,CAR,CE 20:2,CE
+CAR 20:2,CAR,LPE 18:0,LPE,DG 40:4,DG
+LPC O-14:0,LPC,LPC 15:0/0:0,LPC,Cer 46:6;O2|Cer 18:1;O2/28:5,Cer
+DG 24:2,DG,LPC 16:3,LPC,CE 22:5,CE
+CAR 22:1,CAR,LPC 16:0/0:0,LPC,CE 22:4,CE
+LPC 17:0/0:0,LPC,DG 26:2,DG,SE 29:1/20:4,SISE
+LPE 22:6,LPE,LPC 17:1/0:0,LPC,CE 22:3,CE
+LPC 19:0/0:0,LPC,LPE 20:0,LPE,CE 22:2,CE
+LPC 18:2,LPC,LPC 17:0/0:0,LPC,TG 41:1|TG 13:0_14:0_14:1,TG
+LPC 20:2/0:0,LPC,LPG 18:0,LPG,TG 41:0|TG 12:0_14:0_15:0,TG
+LPC 21:0/0:0,LPC,LPE 22:6,LPE,CE 24:5,CE
+LPC 22:5,LPC,LPC 18:0,LPC,CE 24:4,CE
+LPC 20:0,LPC,Cer 33:5;O2|Cer 18:1;O2/15:4,Cer,CE 24:3,CE
+LPC 22:2/0:0,LPC,LPC 18:2,LPC,CE 24:2,CE
+LPC 22:6,LPC,LPC 20:2/0:0,LPC,TG 43:1|TG 9:0_16:0_18:1,TG
+LPC 22:1,LPC,LPC 21:0/0:0,LPC,TG 44:0|TG 14:0_14:0_16:0,TG
+TG 36:0|TG 10:0_12:0_14:0,TG,LPC 22:5,LPC,TG 44:2|TG 14:0_14:1_16:1,TG
+PEtOH 32:1|PEtOH 16:0_16:1,PEtOH,LPC 20:0,LPC,CE 26:4,CE
+TG 38:0|TG 10:0_12:0_16:0,TG,LPC 22:2/0:0,LPC,TG 45:0|TG 14:0_15:0_16:0,TG
+CE 20:3,CE,LPC 22:6,LPC,TG 46:0|TG 14:0_15:0_17:0,TG
+Cer 46:6;O2|Cer 18:1;O2/28:5,Cer,LPC 22:1,LPC,TG 47:3|TG 15:1_16:1_16:1,TG
+PEtOH 34:2|PEtOH 16:0_18:2,PEtOH,LPC 24:2/0:0,LPC,TG 47:2|TG 14:0_15:0_18:2,TG
+TG 40:2|TG 10:0_12:0_18:2,TG,CE 16:1,CE,TG 47:0|TG 14:0_16:0_17:0,TG
+TG 40:1|TG 10:0_12:0_18:1,TG,Cer 44:1;O2|Cer 20:1;O2/24:0,Cer,TG 48:0|TG 15:0_16:0_17:0,TG
+TG 40:0|TG 10:0_14:0_16:0,TG,DG 38:2,DG,TG 49:3|TG 15:0_16:1_18:2,TG
+SM 35:2;O2|SM 18:0;O2/17:2,SM,SM 32:2;O2|SM 18:2;O2/14:0,SM,TG 49:2|TG 16:0_16:1_17:1,TG
+TG 41:1|TG 13:0_14:0_14:1,TG,CE 20:3,CE,TG 49:1|TG 15:0_16:0_18:1,TG
+TG 41:0|TG 12:0_14:0_15:0,TG,CE 20:2,CE,TG 48:1;O|TG 16:0_16:1_16:0;O,TG
+TG 42:2|TG 8:0_16:0_18:2,TG,DG 40:4,DG,TG 49:0|TG 16:0_16:0_17:0,TG
+TG 42:1|TG 10:0_16:0_16:1,TG,CE 22:2,CE,TG 51:5|TG 15:0_18:2_18:3,TG
+TG 42:0|TG 12:0_14:0_16:0,TG,PG 32:2|PG 14:0_18:2,PG,TG 51:4|TG 16:1_18:1_17:2,TG
+TG 43:2|TG 9:0_16:0_18:2,TG,CE 24:5,CE,TG 50:3;O|TG 16:0_16:1_18:2;O,TG
+TG 43:1|TG 9:0_16:0_18:1,TG,CE 24:3,CE,TG 50:2;O|TG 16:0_16:0_18:2;O,TG
+PG 35:2|PG 17:0_18:2,PG,CE 24:2,CE,TG 50:2;O|TG 16:0_18:1_16:1;O,TG
+TG 44:2|TG 10:0_16:0_18:2,TG,PG 35:3|PG 17:1_18:2,PG,TG 51:0|TG 16:0_17:0_18:0,TG
+TG 44:1|TG 12:0_16:0_16:1,TG,PG 35:2|PG 17:0_18:2,PG,TG 53:5|TG 17:0_18:2_18:3,TG
+TG 44:2|TG 14:0_14:1_16:1,TG,PG 36:5|PG 18:2_18:3,PG,TG 52:5;O|TG 18:2_19:2_15:1;O,TG
+TG 44:1|TG 10:0_16:0_18:1,TG,PC 37:7|PC 15:1_22:6,PC,TG 52:4;O|TG 16:0_18:2_18:2;O,TG
+TG 45:2|TG 11:0_16:1_18:1,TG,BMP 36:3|BMP 18:1_18:2,BMP,TG 52:3;O2|TG 16:0_18:1_18:2;O2,TG
+TG 45:1|TG 14:0_15:0_16:1,TG,BMP 40:8|BMP 18:2_22:6,BMP,TG 54:6;O|TG 18:1_18:2_18:3;O,TG
+PC 37:7|PC 15:1_22:6,PC,PG 42:11|PG 20:5_22:6,PG,TG 55:5|TG 19:1_18:2_18:2,TG
+TG 46:3|TG 14:1_16:1_16:1,TG,PC O-42:5,PC,TG 54:5;O|TG 18:1_18:2_18:2;O,TG
+TG 46:2|TG 12:0_16:0_18:2,TG,BMP 42:10|BMP 20:4_22:6,BMP,TG 54:4;O|TG 18:1_18:2_18:1;O,TG
+TG 46:1|TG 14:0_16:0_16:1,TG,BMP 42:9|BMP 20:4_22:5,BMP,TG 58:7|TG 16:0_20:2_22:5,TG
+TG 47:3|TG 15:1_16:1_16:1,TG,PG 44:12|PG 22:6_22:6,PG,TG 58:5|TG 16:0_20:0_22:5,TG
+TG 47:2|TG 14:0_15:0_18:2,TG,DG 52:2,DG,TG 62:6|TG 24:1_18:2_20:3,TG
+TG 47:1|TG 15:0_16:0_16:1,TG,DG 52:1,DG,TG 64:7|TG 24:1_18:2_22:4,TG
+TG 48:4|TG 14:1_16:1_18:2,TG,PI 36:4,PI,TG 64:6|TG 18:1_24:1_22:4,TG
+TG 48:3|TG 14:0_16:1_18:2,TG,BMP 44:12|BMP 22:6_22:6,BMP,TG 64:5|TG 18:0_24:1_22:4,TG
+SM 43:6;O2|SM 17:0;O2/26:6,SM,PI 40:7|PI 18:1_22:6,PI,3-Aminopentanedioate,Lipids and lipid-like molecules
+TG 48:2|TG 14:0_16:0_18:2,TG,TG 53:4;O2|TG 18:1_18:1_17:2;O2,TG,D-Glycero-D-ido-Heptonic acid,Organic oxygen compounds
+TG 48:4|TG 16:0_16:0_16:4,TG,TG 55:2|TG 16:0_19:1_20:1,TG,"2,3-Diphosphoglycerin",Lipids and lipid-like molecules
+TG 48:3|TG 14:0_16:0_18:3,TG,TG 56:8|TG 16:0_18:3_22:5,TG,Arabinosylhypoxanthine,"Nucleosides, nucleotides, and analogues"
+PE O-43:2|PE O-25:1_18:1,PE,PI 42:10|PI 20:4_22:6,PI,"alpha-D-Glucopyranoside, beta-D-fructofuranosyl",Organic oxygen compounds
+TG 49:3|TG 15:0_16:1_18:2,TG,TG 58:5|TG 16:0_20:0_22:5,TG,Chenodeoxycholate,Lipids and lipid-like molecules
+TG 49:2|TG 16:0_16:1_17:1,TG,TG 58:3|TG 16:0_20:0_22:3,TG,D-Raffinose,Organic oxygen compounds
+TG 49:1|TG 15:0_16:0_18:1,TG,TG 58:2|TG 18:0_20:1_20:1,TG,,
+TG 48:1;O|TG 16:0_16:1_16:0;O,TG,TG 60:3|TG 16:0_24:0_20:3,TG,,
+TG 50:6|TG 14:1_18:2_18:3,TG,Benzyl alcohol,Benzenoids,,
+TG 48:0;O|TG 16:0_16:0_16:0;O,TG,Isoleucine,Organic acids,,
+TG 50:5|TG 14:0_18:2_18:3,TG,3-Hydroxyisovalerate,Lipids and lipid-like molecules,,
+TG 50:4|TG 16:0_16:1_18:3,TG,L-Leucine,Organic acids,,
+TG 51:5|TG 15:0_18:2_18:3,TG,6-Aminohexanoate,Lipids and lipid-like molecules,,
+TG 51:4|TG 16:1_18:1_17:2,TG,L-Alanine,Organic acids,,
+BMP 42:10|BMP 20:4_22:6,BMP,DL-Homoserine,Organic acids,,
+TG 51:3|TG 16:1_17:1_18:1,TG,"3-methyl-1-(4-methylpiperazin-1-yl)pyrido[1,2-a]benzimidazole-4-carbonitrile",Organoheterocyclic compounds,,
+BMP 42:9|BMP 20:4_22:5,BMP,"Oxolane-2,3,4-triol",Organic oxygen compounds,,
+TG 50:3;O|TG 16:0_16:1_18:2;O,TG,Nicotinamide,Organoheterocyclic compounds,,
+TG 51:2|TG 16:0_17:0_18:2,TG,L-Asparagine,Organic acids,,
+TG 50:2;O|TG 16:0_16:0_18:2;O,TG,L-Methionine,Organic acids,,
+TG 50:2;O|TG 16:0_18:1_16:1;O,TG,Dodecane,Hydrocarbons,,
+TG 51:3|TG 17:1_17:1_17:1,TG,Cysteine,Organic acids,,
+TG 52:7|TG 18:2_18:2_16:3,TG,2-(Methylamino)pentanedioic acid,Organic acids,,
+TG 50:1;O|TG 16:0_16:0_18:1;O,TG,1-Dodecanol,Lipids and lipid-like molecules,,
+TG 51:2|TG 15:0_17:1_19:1,TG,Xylitol,Organic oxygen compounds,,
+TG 52:6|TG 16:1_18:2_18:3,TG,Levoglucosan,Organoheterocyclic compounds,,
+DG 52:1,DG,Hypoxanthine,Organoheterocyclic compounds,,
+TG 52:5|TG 16:0_18:2_18:3,TG,D-Pinitol,Organic oxygen compounds,,
+TG 52:6|TG 16:0_18:3_18:3,TG,Uridine 5'-diphospho-N-acetylglucosamine,"Nucleosides, nucleotides, and analogues",,
+PI 36:4,PI,L-Tyrosine,Organic acids,,
+TG 53:6|TG 17:1_18:2_18:3,TG,D-Glucuronic acid,Organic oxygen compounds,,
+TG 53:5|TG 17:0_18:2_18:3,TG,Hexose,Organic oxygen compounds,,
+TG 52:5;O|TG 18:2_19:2_15:1;O,TG,Xanthine,Organoheterocyclic compounds,,
+TG 53:4|TG 17:1_18:1_18:2,TG,D-Glycero-D-ido-Heptonic acid,Organic oxygen compounds,,
+TG 52:4;O|TG 16:0_18:2_18:2;O,TG,"2,3-Diphosphoglycerin",Lipids and lipid-like molecules,,
+TG 53:3|TG 17:0_18:1_18:2,TG,"4-(2-Amino-1-hydroxyethyl)benzene-1,2-diol",Benzenoids,,
+TG 52:3;O|TG 16:0_18:1_18:2;O,TG,Spermidine,Organic nitrogen compounds,,
+TG 53:4|TG 17:0_17:0_19:4,TG,6-o-Phosphonohexose,Organic oxygen compounds,,
+TG 54:8|TG 18:2_18:3_18:3,TG,Sorbitol 6-phosphate,Organic oxygen compounds,,
+TG 52:2;O|TG 16:0_18:1_18:1;O,TG,D-Galactose 6-phosphate,Organic oxygen compounds,,
+TG 54:7|TG 18:2_18:2_18:3,TG,Sedoheptulose,Organic oxygen compounds,,
+TG 54:7|TG 18:1_18:3_18:3,TG,2-Monopalmitin,Lipids and lipid-like molecules,,
+TG 52:3;O2|TG 16:0_18:1_18:2;O2,TG,"alpha-D-Glucopyranoside, beta-D-fructofuranosyl",Organic oxygen compounds,,
+SM 49:3;O2|SM 21:0;O2/28:3,SM,D-Cellobiose,Organic oxygen compounds,,
+TG 54:6;O|TG 18:1_18:2_18:3;O,TG,beta-Maltose,Organic oxygen compounds,,
+TG 55:5|TG 19:1_18:2_18:2,TG,Glyceryl monooleate,Lipids and lipid-like molecules,,
+TG 55:5|TG 18:1_19:1_18:3,TG,Maltose,Organic oxygen compounds,,
+TG 54:5;O|TG 18:1_18:2_18:2;O,TG,Guanosine,"Nucleosides, nucleotides, and analogues",,
+TG 55:4|TG 18:1_19:1_18:2,TG,Tetracosanoic acid,Lipids and lipid-like molecules,,
+TG 54:4;O|TG 18:1_18:2_18:1;O,TG,[5-(6-Aminopurin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] dihydrogen phosphate,"Nucleosides, nucleotides, and analogues",,
+TG 55:2|TG 16:0_19:1_20:1,TG,Chenodeoxycholate,Lipids and lipid-like molecules,,
+TG 56:1|TG 16:0_22:0_18:1,TG,Dihydrocholesterol,Lipids and lipid-like molecules,,
+TG 58:3|TG 16:0_20:0_22:3,TG,Maltotriose,Organic oxygen compounds,,
+TG 58:2|TG 18:0_20:1_20:1,TG,,,,
+TG 60:8|TG 18:1_20:3_22:4,TG,,,,
+TG 60:3|TG 16:0_24:0_20:3,TG,,,,
+TG 62:8|TG 18:0_22:4_22:4,TG,,,,
+6-Aminohexanoate,Lipids and lipid-like molecules,,,,
+Thymine,Organoheterocyclic compounds,,,,
+Nicotinamide,Organoheterocyclic compounds,,,,
+"Butane-1,2,3,4-tetrol",Organic oxygen compounds,,,,
+1-Dodecanol,Lipids and lipid-like molecules,,,,
+3-Aminopentanedioate,Lipids and lipid-like molecules,,,,
+Xylitol,Organic oxygen compounds,,,,
+Levoglucosan,Organoheterocyclic compounds,,,,
+Hypoxanthine,Organoheterocyclic compounds,,,,
+D-Glucose,Organic oxygen compounds,,,,
+D-Sorbitol,Organic oxygen compounds,,,,
+L-Adrenaline,Benzenoids,,,,
+Palmitoleic acid,Lipids and lipid-like molecules,,,,
+9-Hexadecenoic acid,Lipids and lipid-like molecules,,,,
+"Fructose-2,6-diphosphate",Organic oxygen compounds,,,,
+Linoleate,Lipids and lipid-like molecules,,,,
+(9Z)-Octadecenoic acid,Lipids and lipid-like molecules,,,,
+Spermidine,Organic nitrogen compounds,,,,
+Nonadecanoic acid,Lipids and lipid-like molecules,,,,
+Arachidonate,Lipids and lipid-like molecules,,,,
+11-Eicosenoic acid,Lipids and lipid-like molecules,,,,
+(EZ)-Eicosenoic acid,Lipids and lipid-like molecules,,,,
+Arabinosylhypoxanthine,"Nucleosides, nucleotides, and analogues",,,,
+D-Cellobiose,Organic oxygen compounds,,,,
+beta-Maltose,Organic oxygen compounds,,,,
+Glyceryl monooleate,Lipids and lipid-like molecules,,,,
+Maltose,Organic oxygen compounds,,,,
+Guanosine,"Nucleosides, nucleotides, and analogues",,,,
+"3,4,5,6-Tetrahydroxy-2-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhexanal",Lipids and lipid-like molecules,,,,
+Tetracosanoic acid,Lipids and lipid-like molecules,,,,
+Melibiose,Organic oxygen compounds,,,,
+[5-(6-Aminopurin-9-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] dihydrogen phosphate,"Nucleosides, nucleotides, and analogues",,,,
+"2,5,7,8-Tetramethyl-2-(5,9,13-trimethyltetradecyl)-3,4-dihydro-2h-chromen-6-ol",Lipids and lipid-like molecules,,,,
+Cholestanol,Lipids and lipid-like molecules,,,,
+Cholest-4-en-3-one,Lipids and lipid-like molecules,,,,
+Zymosterol,Lipids and lipid-like molecules,,,,
+Chenodeoxycholate,Lipids and lipid-like molecules,,,,
+D-Raffinose,Organic oxygen compounds,,,,
+Maltotriose,Organic oxygen compounds,,,,

@@ -1,0 +1,31 @@
+"","Ontology","CONF","CONAF","FAb"
+"1","BMP",2,5,NA
+"2","Benzenoids",1,2,NA
+"3","CAR",8,8,2
+"4","CE",1,7,15
+"5","Cer",1,2,3
+"6","DG",2,5,2
+"7","DHSph",1,1,NA
+"8","FA",5,3,4
+"9","LPC",11,17,4
+"10","LPE",1,4,NA
+"11","Lipids and lipid-like molecules",19,9,3
+"12","NAE",9,5,2
+"13","NAGly",1,1,1
+"14","NATau",1,1,NA
+"15","Nucleosides, nucleotides, and analogues",3,3,1
+"16","Organic nitrogen compounds",1,1,NA
+"17","Organic oxygen compounds",11,15,3
+"18","Organoheterocyclic compounds",4,5,NA
+"19","PC",1,2,NA
+"20","PE",1,NA,NA
+"21","PEtOH",2,NA,NA
+"22","PG",1,6,NA
+"23","PI",1,3,NA
+"24","SM",3,1,NA
+"25","TG",77,7,36
+"26","Hydrocarbons",NA,1,NA
+"27","LPG",NA,1,NA
+"28","Organic acids",NA,9,NA
+"29","Sph",NA,1,NA
+"30","SISE",NA,NA,2

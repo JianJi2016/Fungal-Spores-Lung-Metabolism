@@ -1,0 +1,91 @@
+"","Ontology","variable","value"
+"1","BMP","CONF",2
+"2","Benzenoids","CONF",1
+"3","CAR","CONF",8
+"4","CE","CONF",1
+"5","Cer","CONF",1
+"6","DG","CONF",2
+"7","DHSph","CONF",1
+"8","FA","CONF",5
+"9","LPC","CONF",11
+"10","LPE","CONF",1
+"11","Lipids and lipid-like molecules","CONF",19
+"12","NAE","CONF",9
+"13","NAGly","CONF",1
+"14","NATau","CONF",1
+"15","Nucleosides, nucleotides, and analogues","CONF",3
+"16","Organic nitrogen compounds","CONF",1
+"17","Organic oxygen compounds","CONF",11
+"18","Organoheterocyclic compounds","CONF",4
+"19","PC","CONF",1
+"20","PE","CONF",1
+"21","PEtOH","CONF",2
+"22","PG","CONF",1
+"23","PI","CONF",1
+"24","SM","CONF",3
+"25","TG","CONF",77
+"26","Hydrocarbons","CONF",NA
+"27","LPG","CONF",NA
+"28","Organic acids","CONF",NA
+"29","Sph","CONF",NA
+"30","SISE","CONF",NA
+"31","BMP","CONAF",5
+"32","Benzenoids","CONAF",2
+"33","CAR","CONAF",8
+"34","CE","CONAF",7
+"35","Cer","CONAF",2
+"36","DG","CONAF",5
+"37","DHSph","CONAF",1
+"38","FA","CONAF",3
+"39","LPC","CONAF",17
+"40","LPE","CONAF",4
+"41","Lipids and lipid-like molecules","CONAF",9
+"42","NAE","CONAF",5
+"43","NAGly","CONAF",1
+"44","NATau","CONAF",1
+"45","Nucleosides, nucleotides, and analogues","CONAF",3
+"46","Organic nitrogen compounds","CONAF",1
+"47","Organic oxygen compounds","CONAF",15
+"48","Organoheterocyclic compounds","CONAF",5
+"49","PC","CONAF",2
+"50","PE","CONAF",NA
+"51","PEtOH","CONAF",NA
+"52","PG","CONAF",6
+"53","PI","CONAF",3
+"54","SM","CONAF",1
+"55","TG","CONAF",7
+"56","Hydrocarbons","CONAF",1
+"57","LPG","CONAF",1
+"58","Organic acids","CONAF",9
+"59","Sph","CONAF",1
+"60","SISE","CONAF",NA
+"61","BMP","FAb",NA
+"62","Benzenoids","FAb",NA
+"63","CAR","FAb",2
+"64","CE","FAb",15
+"65","Cer","FAb",3
+"66","DG","FAb",2
+"67","DHSph","FAb",NA
+"68","FA","FAb",4
+"69","LPC","FAb",4
+"70","LPE","FAb",NA
+"71","Lipids and lipid-like molecules","FAb",3
+"72","NAE","FAb",2
+"73","NAGly","FAb",1
+"74","NATau","FAb",NA
+"75","Nucleosides, nucleotides, and analogues","FAb",1
+"76","Organic nitrogen compounds","FAb",NA
+"77","Organic oxygen compounds","FAb",3
+"78","Organoheterocyclic compounds","FAb",NA
+"79","PC","FAb",NA
+"80","PE","FAb",NA
+"81","PEtOH","FAb",NA
+"82","PG","FAb",NA
+"83","PI","FAb",NA
+"84","SM","FAb",NA
+"85","TG","FAb",36
+"86","Hydrocarbons","FAb",NA
+"87","LPG","FAb",NA
+"88","Organic acids","FAb",NA
+"89","Sph","FAb",NA
+"90","SISE","FAb",2

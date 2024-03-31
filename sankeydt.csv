@@ -1,0 +1,46 @@
+metabolites,pathNames,Freq
+Raffinose,Galactose metabolism,1
+Melibiose,Galactose metabolism,1
+D-Galactose,Galactose metabolism,1
+3-beta-D-Galactosyl-sn-glycerol,Galactose metabolism,1
+alpha-D-Galactosyl-(1->3)-1D-myo-inositol,Galactose metabolism,1
+alpha-D-Galactose 1-phosphate,Galactose metabolism,1
+D-Glucose,Galactose metabolism,1
+Glycerol,Galactose metabolism,1
+D-Sorbitol,Galactose metabolism,1
+myo-Inositol,Galactose metabolism,1
+L-Arabitol,Pentose and glucuronate interconversions,1
+Xylitol,Pentose and glucuronate interconversions,1
+L-Gulonate,Pentose and glucuronate interconversions,1
+D-Glucuronate,Pentose and glucuronate interconversions,1
+myo-Inositol,Ascorbate and aldarate metabolism,1
+D-Glucuronate,Ascorbate and aldarate metabolism,1
+L-Gulonate,Ascorbate and aldarate metabolism,1
+L-Asparagine,Aminoacyl-tRNA biosynthesis,1
+Glycine,Aminoacyl-tRNA biosynthesis,1
+L-Aspartate,Aminoacyl-tRNA biosynthesis,1
+L-Methionine,Aminoacyl-tRNA biosynthesis,1
+L-Isoleucine,Aminoacyl-tRNA biosynthesis,1
+L-Tryptophan,Aminoacyl-tRNA biosynthesis,1
+Icosanoic acid,Biosynthesis of unsaturated fatty acids,1
+(9Z)-Octadecenoic acid,Biosynthesis of unsaturated fatty acids,1
+Linoleate,Biosynthesis of unsaturated fatty acids,1
+Arachidonate,Biosynthesis of unsaturated fatty acids,1
+"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid",Biosynthesis of unsaturated fatty acids,1
+D-Sorbitol,Fructose and mannose metabolism,1
+"beta-D-Fructose 2,6-bisphosphate",Fructose and mannose metabolism,1
+beta-D-Fructose 6-phosphate,Fructose and mannose metabolism,1
+beta-Alanine,beta-Alanine metabolism,1
+L-Aspartate,beta-Alanine metabolism,1
+Spermidine,beta-Alanine metabolism,1
+Glycine,Glutathione metabolism,1
+Putrescine,Glutathione metabolism,1
+Spermidine,Glutathione metabolism,1
+L-Aspartate,"Alanine, aspartate and glutamate metabolism",1
+L-Asparagine,"Alanine, aspartate and glutamate metabolism",1
+Fumarate,"Alanine, aspartate and glutamate metabolism",1
+Xanthine,Purine metabolism,1
+AMP,Purine metabolism,1
+Hypoxanthine,Purine metabolism,1
+Guanosine,Purine metabolism,1
+Adenine,Purine metabolism,1
